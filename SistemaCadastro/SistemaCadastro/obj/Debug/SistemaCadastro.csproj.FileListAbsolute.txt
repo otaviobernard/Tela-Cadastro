@@ -1,0 +1,12 @@
+C:\Users\otavi\Documents\CODES\c#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.AssemblyReference.cache
+C:\Users\otavi\Documents\CODES\c#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\otavi\Documents\CODES\c#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+C:\Users\otavi\Documents\CODES\c#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.cache
+C:\Users\otavi\Documents\CODES\c#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\otavi\Documents\CODES\c#\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+C:\Users\otavi\Documents\CODES\c#\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+C:\Users\otavi\Documents\CODES\c#\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+C:\Users\otavi\Documents\CODES\c#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+C:\Users\otavi\Documents\CODES\c#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.pdb
+C:\Users\otavi\Documents\CODES\c#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.TelaCadastro.resources
+C:\Users\otavi\Documents\CODES\c#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.Main.resources
